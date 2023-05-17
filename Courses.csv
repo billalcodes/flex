@@ -1,0 +1,51 @@
+CourseId,CourseCode,CourseTitle,CreditHours,NumberOfStudents
+1,CSE101,Introduction to Computer Science,3,0
+2,MAT201,Linear Algebra,4,0
+3,ENG101,English Composition,3,3
+4,PHY301,Physics I,4,5
+5,CHE201,Chemistry,3,324
+6,BIO101,Introduction to Biology,3,34
+7,ECO301,Principles of Economics,3,5
+8,PSY201,Introduction to Psychology,3,6
+9,HIS101,World History,3,2
+10,ART202,Introduction to Art,3,1
+11,MKT301,Marketing Principles,3,43
+12,PHI201,Introduction to Philosophy,3,5
+13,ANT101,Introduction to Anthropology,3,342
+14,SOC301,Sociology,3,5
+15,GEO201,Physical Geography,3,3
+16,STA301,Statistics,3,44
+17,COM301,Communication Skills,3,1
+18,CSE201,Data Structures and Algorithms,4,2
+19,MAT301,Calculus I,4,23
+20,ENG201,Advanced English Writing,3,4
+21,PHY401,Physics II,4,53
+22,CHE301,Organic Chemistry,4,3
+23,BIO201,Cell Biology,4,3
+24,ECO401,Macroeconomics,3,4
+25,PSY301,Cognitive Psychology,3,34
+26,HIS201,European History,3,3
+27,ART302,Modern Art,3,433
+28,MKT401,Consumer Behavior,3,34
+29,PHI301,Ethics,3,343
+30,ANT201,Cultural Anthropology,3,434
+31,SOC401,Globalization and Society,3,3
+32,GEO301,Human Geography,3,232
+33,STA401,Probability Theory,3,7
+34,COM401,Public Speaking,3,23
+35,CSE301,Database Systems,4,2
+36,MAT401,Calculus II,4,3
+37,ENG301,Advanced English Literature,3,2
+38,PHY501,Modern Physics,4,3
+39,CHE401,Biochemistry,4,32
+40,BIO301,Genetics,4,3
+41,ECO501,International Economics,3,2
+42,PSY401,Social Psychology,3,0
+43,HIS301,American History,3,32
+44,ART402,Contemporary Art,3,0
+45,MKT501,Marketing Research,3,32
+46,PHI401,Philosophy of Science,3,2
+47,ANT301,Archaeology,3,3
+48,SOC501,Social Inequality,3,215
+49,GEO401,Geographic Information Systems,3,4
+50,STA501,Regression Analysis,3,0

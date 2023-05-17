@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "flex(demo)", "flex(demo)\", "{DF145855-76BA-4987-99B2-48B2FD130A6A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51206"
+		Debug.AspNetCompiler.PhysicalPath = "flex(demo)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51206\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51206"
+		Release.AspNetCompiler.PhysicalPath = "flex(demo)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51206\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51206"
+		SlnRelativePath = "flex(demo)\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF145855-76BA-4987-99B2-48B2FD130A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF145855-76BA-4987-99B2-48B2FD130A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EE55E2-8865-497E-941A-F5A9D247369D}
+	EndGlobalSection
+EndGlobal
